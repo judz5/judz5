@@ -1,6 +1,6 @@
- - :boom: Im Judson, A Highschool student learning java, python, and cybersecurity. 
- - :+1: Im interested in Cybersecuirty, Fluid Simulations, and Game development
- - :runner: Im currently learning about path finding algoritms, and time complexity.
+ - 🔥: Im Judson, A Highschool student learning java, python, and cybersecurity. 
+ - 🍜: Im interested in Cybersecuirty, Fluid Simulations, and Game development
+ - 🎠: Im currently learning about Pathfinding algorithms, and time complexity.
 
 <!---
 judz5/judz5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
