@@ -1,4 +1,4 @@
- - 🔥: Im Judson, A Highschool student learning Comnputer Science and Cybersecurity. 
+ - 🔥: Im Judson, A Highschool student learning Computer Science and Cybersecurity. 
  - 🍜: Im interested in Guitar, Cars, and cool programming Projects
  - 🎠: Im currently focusing on Python , and continuing to learn Java.
  #
