@@ -5,8 +5,7 @@
  ### 👽 Some Projects I want to make 👽 
  - PathFinding Visualizer (Learning Pygame first!)
  - Python physics engine / visualizer (yikes)
- - Sorthing Algoritm Visuzlizer (why is everything a visualizer)
- - Tron Game for the arcade at work 
+ - Sorthing Algoritm Visuzlizer (why is everything a visualizer)=
  - website for all my projects
  - I got alot of ideas i'll just leave it at this for now
 <!---
