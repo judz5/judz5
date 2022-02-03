@@ -1,11 +1,13 @@
 # Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Judson, I am a high school senior, coding instructor, and soon an aggie! 🙏
+### My name is Judson, I am a high school senior, coding instructor, and soon an aggie! 🙏
+### I am interested in cars, guitar, cybersecurity, and I'm an ex OSRS Addict ⚔️
 
 ## 🛠️ Tools of the Trade
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Vim-informational?style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 
