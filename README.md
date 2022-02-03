@@ -12,6 +12,7 @@ My name is Judson, I am a high school senior, coding instructor, and soon an agg
 
 ## 📊 Stats
 
+<div style="display: flex; flex-direction: row;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark" />
 </a>
@@ -24,6 +25,7 @@ My name is Judson, I am a high school senior, coding instructor, and soon an agg
 <a href="https://github.com/judz5/PyCrack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyCrack&theme=github_dark" />
 </a>
+</div>
 
 
 
