@@ -12,7 +12,7 @@ My name is Judson, I am a high school senior, coding instructor, and soon an agg
 
 ## 📊 Stats
 <a href="https://github.com/judz5/judz5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark&card_width=255" />
 </a>
 <a href="https://github.com/judz5/judz5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=judz5&show_icons=true&theme=github_dark&line_height=20&include_all_commits=true" />
