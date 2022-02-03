@@ -11,14 +11,18 @@ My name is Judson, I am a high school senior, coding instructor, and soon an agg
 
 
 ## 📊 Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=judz5&show_icons=true&theme=github_dark&line_height=20" />
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=judz5&show_icons=true&theme=github_dark&line_height=20" />
+</a>
 <a href="https://github.com/judz5/PyJump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyJump&theme=github_dark" />
+</a>
+<a href="https://github.com/judz5/PyCrack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyCrack&theme=github_dark" />
 </a>
 
 
