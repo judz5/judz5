@@ -12,7 +12,8 @@ My name is Judson, I am a high school senior, coding instructor, and soon an agg
 
 ## 📊 Stats
 ![judz5's GitHub stats](https://github-readme-stats.vercel.app/api?username=judz5&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyJump&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
