@@ -1,6 +1,6 @@
 # Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name is Judson, I am a high school senior, coding instructor, and soon an aggie! 🙏
+### My name is Judson, I am a high school senior, and coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and I'm an ex OSRS Addict ⚔️
 
 ## 🛠️ Tools of the Trade
