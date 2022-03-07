@@ -1,7 +1,7 @@
 # Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### My name is Judson, I am a high school senior, and coding instructor.
-### I am interested in cars, guitar, cybersecurity, and I'm an ex OSRS Addict ⚔️
+### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
 
 ## 🛠️ Tools of the Trade
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
