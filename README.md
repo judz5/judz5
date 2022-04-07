@@ -14,7 +14,7 @@
 
 ## 📊 Stats
 
-    My main language is Python not HTML, my APCSA Repo has a bunch of links in it 💯
+    My main language is not HTML, my APCSA Repo just has a bunch of links in it. 💯
 
 <a href="https://github.com/judz5/judz5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judz5&layout=compact&theme=github_dark&card_width=255" />
