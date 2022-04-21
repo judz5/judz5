@@ -25,8 +25,8 @@
 <a href="https://github.com/judz5/PyJump">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyJump&theme=github_dark" />
 </a>
-<a href="https://github.com/judz5/PyCrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyCrack&theme=github_dark" />
+<a href="https://github.com/judz5/PyLogin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=judz5&repo=PyLogin&theme=github_dark" />
 </a>
 
 
