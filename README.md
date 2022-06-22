@@ -1,4 +1,4 @@
-# Howdy! 
+# Howdy! 👋
 
 ### My name is Judson, I am a high school senior, and coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
