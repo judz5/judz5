@@ -1,4 +1,4 @@
-# Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Howdy! 
 
 ### My name is Judson, I am a high school senior, and coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
