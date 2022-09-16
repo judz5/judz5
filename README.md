@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-### My name is Judson, I am a high school senior, and coding instructor.
+### My name is Judson, I am a freshman Aggie, and (ex) coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
 
 ## 🛠️ Tools of the Trade
