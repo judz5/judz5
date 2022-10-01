@@ -3,7 +3,7 @@
 ### My name is Judson, I am a freshman Aggie, and (ex) coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
 
-## 🛠️ Tools of the Trade
+## 🛠️ Stuff I Use 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
