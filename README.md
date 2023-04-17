@@ -2,7 +2,7 @@
 
 ### My name is Judson, I am a freshman Aggie, and (ex) coding instructor.
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
-### Curently trying to survive freshman year, if you need ENGR 102 help message me!
+### Curently trying to survive freshman year.
 
 ## 🛠️ Stuff I Use 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
