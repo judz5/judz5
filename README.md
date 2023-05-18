@@ -1,8 +1,7 @@
 # Howdy! 👋
 
-### My name is Judson, I am a freshman Aggie, and (ex) coding instructor.
+### My name is Judson, I am a sophomore Computer Science major at Texas A&M!
 ### I am interested in cars, guitar, cybersecurity, and climbing 🧗‍♂️
-### Curently trying to survive freshman year.
 
 ## 🛠️ Stuff I Use 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
